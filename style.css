@@ -1,0 +1,29 @@
+.cals{
+    display: grid;
+    grid-template-columns: 2fr 1fr 1fr 1fr;
+    column-gap: 0px;
+}
+
+button{
+   font-weight: bolder;
+   font-size: xx-large;
+    height: 60px;
+}
+
+.out{
+   height: 400px;
+}
+
+.tet{
+    display: grid;
+    grid-row: 1fr;
+}
+
+.text{
+    border-width: 10px;
+    align-items: center;
+    justify-content: center;
+
+    font-size:larger;
+    font-weight: bolder;
+}
